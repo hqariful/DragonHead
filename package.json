@@ -4,7 +4,8 @@
   "description": "this is project to demonstrate the use of question paper model of website",
   "main": "server.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "devStart": "nodemon server.js",
+    "start": "node server.js"
   },
   "keywords": [
     "qustion_website"
